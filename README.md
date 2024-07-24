@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Md-Anamuddin
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Pyhton
+- 🌱 I've completed Pyhton
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me insta- _prince_16189
 
